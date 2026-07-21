@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Redbubble Trend Finder",
+  "description": "An AI-powered Redbubble Trend Finder and optimization tool featuring real-time research, intellectual property/trademark pre-checking, an interactive tagging guide, and a mockup visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
